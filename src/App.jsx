@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 
 // const API_BASE = "https://lxifjsnpj0.execute-api.us-east-1.amazonaws.com";
-const API_BASE = "https://p1nqxfhotf.execute-api.us-east-1.amazonaws.com/Prod/";
+const API_BASE = "https://p1nqxfhotf.execute-api.us-east-1.amazonaws.com/Prod";
 const studentName = "Max Mustermann";
 const matrikelNummer = "1234567";
 
